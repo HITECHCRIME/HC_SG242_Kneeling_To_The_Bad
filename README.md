@@ -23,7 +23,7 @@ Type of beat - tempo > https://www.youtube.com/watch?v=i28t_BjokA4
 
 ```
 i've been living every day like i'm kneeling to the bad
-you've been killing all your vice while i see it with my eyes
+you've been killing all your vice while (<still) i see it with my eyes
 
 i got evil on my mind, problems giving it a rise
 won't be solved with any time what can never be aligned
